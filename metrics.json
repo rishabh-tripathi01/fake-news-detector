@@ -1,0 +1,1 @@
+{"accuracy": 97.7, "precision": 97.36, "recall": 98.42, "f1": 97.89, "confusion_matrix": [[3467, 113], [67, 4172]], "n_articles": 39092, "n_test": 7819}
